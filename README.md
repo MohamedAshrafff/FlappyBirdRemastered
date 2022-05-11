@@ -1,3 +1,7 @@
+# Description 
+  Yes Flappy Bird our childhood game remasterd by using c++ and sfml library for the gui sound etc...
+  Our game Have two modes {Easy-Hard} with changes of speed and effects also the game implemented by using vectors to make pipes infinitely.
+  
 # In-Game Screenshots
 
 # Main Menu 
